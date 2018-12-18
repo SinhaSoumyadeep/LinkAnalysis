@@ -1,0 +1,100 @@
+1.	Green_building:	0.03954909355094901
+
+2.	Leadership_in_Energy_and_Environmental_Design:	0.03158161417556564
+
+3.	Greenhouse_effect:	0.028158397136687316
+
+4.	U.S._Green_Building_Council:	0.027366366435186792
+
+5.	Greenhouse:	0.023712408094004107
+
+6.	Green_politics:	0.022023044394153812
+
+7.	Green_anarchism:	0.02139237853857703
+
+8.	Green_roof:	0.01996475524612159
+
+9.	World_Green_Building_Council:	0.01842675764817648
+
+10.	Green_Building_Council:	0.016537174896982212
+
+11.	List_of_countries_by_greenhouse_gas_emissions_per_capita:	0.015856361491696228
+
+12.	Green_chemistry:	0.01573310925906274
+
+13.	List_of_countries_by_greenhouse_gas_emissions:	0.015276862471406173
+
+14.	Cecil_Howard_Green:	0.014314219663783828
+
+15.	Green_computing:	0.014225538254228664
+
+16.	Carbon_footprint:	0.012843535281683605
+
+17.	Green_Building_Council_of_Australia:	0.012461301037203304
+
+18.	Runaway_greenhouse_effect:	0.01194648363301436
+
+19.	Greenhouse_gas_emissions:	0.011890953479086756
+
+20.	Green_Business_Certification_Inc.:	0.011330993625561211
+
+21.	The_Greens:	0.011124736391983858
+
+22.	Anti-greenhouse_effect:	0.010605464409855263
+
+23.	Canada_Green_Building_Council:	0.010417925869689931
+
+24.	UK_Green_Building_Council:	0.010028505010174958
+
+25.	Ecotax:	0.009904712942934716
+
+26.	Green_Templeton_College,_Oxford:	0.009841420049954218
+
+27.	Green_Building_Certification_Institute:	0.00972565466770785
+
+28.	Royal_Greenhouses_of_Laeken:	0.009647778898910357
+
+29.	Green_building_in_the_United_States:	0.009271070560225612
+
+30.	Green_Anarchist:	0.009240595007870446
+
+31.	Green_College,_University_of_British_Columbia:	0.009036832105656208
+
+32.	Greenfield_land:	0.008896129162740997
+
+33.	Green_Anarchy:	0.008485044932499658
+
+34.	Green_movement:	0.008485044932499658
+
+35.	Green_library:	0.008414158713627717
+
+36.	Greenfield_status:	0.00839966587365346
+
+37.	Idealized_greenhouse_model:	0.008006043259219291
+
+38.	Greenpeace:	0.0077361101938475015
+
+39.	Green_wall:	0.007667834661257325
+
+40.	Life-cycle_greenhouse-gas_emissions_of_energy_sources:	0.007636693823576091
+
+41.	Green_Building_in_Bangladesh:	0.007595495711037266
+
+42.	Green_College,_Oxford:	0.007427656217060189
+
+43.	Greenhouse_and_icehouse_Earth:	0.0073135262258405345
+
+44.	Greenhouse_gas_footprint:	0.007287437062321555
+
+45.	Conservatory_(greenhouse):	0.007282765155204745
+
+46.	Seawater_greenhouse:	0.007282765155204745
+
+47.	Greenhouse_gas_inventory:	0.007174084886256049
+
+48.	Philippine_Green_Building_Council:	0.0069959526061034
+
+49.	Greenhouse_gas_accounting:	0.0069033280153275554
+
+50.	Green_Chemistry_(journal):	0.006810892746845238
+

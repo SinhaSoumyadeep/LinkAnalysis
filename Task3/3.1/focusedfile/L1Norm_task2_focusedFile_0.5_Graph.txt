@@ -1,0 +1,50 @@
+
+
+**************************	L1Norm for focusedFile	**************************
+
+
+
+Iteration:	0:
+
+	newPRSum:	1.0000000000000002
+	L1Norm:	0.3842085377335114
+
+Iteration:	1:
+
+	newPRSum:	0.9999999999999994
+	L1Norm:	0.09348276703482546
+
+Iteration:	2:
+
+	newPRSum:	1.0
+	L1Norm:	0.024986870690242493
+
+Iteration:	3:
+
+	newPRSum:	1.0000000000000004
+	L1Norm:	0.007571341273720061
+
+Iteration:	4:
+
+	newPRSum:	1.0000000000000002
+	L1Norm:	0.0023384775902710684
+
+Iteration:	5:
+
+	newPRSum:	0.9999999999999992
+	L1Norm:	0.0008341634431905517
+
+Iteration:	6:
+
+	newPRSum:	1.0000000000000007
+	L1Norm:	0.0003025388437525858
+
+Iteration:	7:
+
+	newPRSum:	1.0000000000000002
+	L1Norm:	0.00012094481466966983
+
+Iteration:	8:
+
+	newPRSum:	0.9999999999999993
+	L1Norm:	5.122935682626371e-05

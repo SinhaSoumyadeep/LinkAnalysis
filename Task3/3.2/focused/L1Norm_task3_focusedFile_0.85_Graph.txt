@@ -1,0 +1,25 @@
+
+
+**************************	L1Norm for focusedFile	**************************
+
+
+
+Iteration:	0:
+
+	newPRSum:	1.0
+
+Iteration:	1:
+
+	newPRSum:	1.0
+
+Iteration:	2:
+
+	newPRSum:	1.0000000000000004
+
+Iteration:	3:
+
+	newPRSum:	1.0000000000000002
+
+Iteration:	4:
+
+	newPRSum:	0.9999999999999998

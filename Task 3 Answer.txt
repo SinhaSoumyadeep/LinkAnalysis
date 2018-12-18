@@ -1,0 +1,77 @@
+Task 3 Answer:
+
+task 3.1:
+1) Re-run the PageRank algorithm using damping factors of d = 0.5 and d = 0.65.	
+What do	you	observe	in the resulting PageRank values relative to the baseline?
+
+When changing damping factor d = 0.55 or d= 0.65, the number of iteration decrease by approximately 60% and 50% respectively.
+It is observed that the page ranks of the few of the documents are also changed.
+when we decrease the damping factor from 0.85 to 0.50 or 0.65 we are increasing the probability to jump to a random page instead of choosing to visit one of the outlinks. Thus, when we compare the results obtained with the base line, there is a difference in order in the page ranks of few of the documents as we have increased the probability for it to jump to a random page.
+
+2) Re-run the PageRank algorithm in	Task2-D for	exactly	4 iterations. Discuss the results obtained with	respect	to the baseline.
+
+When we run the Page Rank algorithm for exactly 4 times the Page Rank does not converge which means that the page rank calculated has not yet stabilize which means that the order of various documents in the page rank changes where as if we let the page ranks to converge, the order is different. 
+eg: the page rank of Green_building is 	0.04405543921467989 and is ranked as 1 where as when the algorithm stabilize the pageRank of the same becomes Green_building:	0.041672783142683904 and takes the 2nd position. The first position is then taken by Greenhouse_effect:	0.04170058018321214.
+
+
+
+
+3) Sort	the	documents based	on their raw in-link count.	Compare	the	top	20 documents in	this sorted	list to	those obtained in Task2-D sorted by	
+PageRank. Discuss the pros and cons	of using the in-link count as an alternative to	PageRank (address at least 2 pros and 2	cons).
+
+Top 20 files from Page Rank with damping factor 0.85:
+
+1.	International_Standard_Book_Number:	0.10199573248253854
+2.	Digital_object_identifier:	0.09184391983237683
+3.	International_Standard_Serial_Number:	0.05358031426088468
+4.	International_Organization_for_Standardization:	0.047835663822152166
+5.	PubMed_Identifier:	0.03445126580289058
+6.	Wayback_Machine:	0.03370694420519756
+7.	Bibcode:	0.0279957738732061
+8.	PubMed_Central:	0.02582771057585683
+9.	OCLC:	0.019602886570594422
+10.	Nature_(journal):	0.018694912095222508
+11.	DMOZ:	0.01767895704177762
+12.	The_Guardian:	0.010998917955136526
+13.	United_States:	0.009433136171598307
+14.	Science_(journal):	0.008738884763055645
+15.	Carbon_dioxide:	0.007478823404987074
+16.	Climate_change:	0.007282811491303261
+17.	JSTOR:	0.006811149822554328
+18.	California:	0.006499503524645015
+19.	Nonprofit_organization:	0.006468640150794626
+20.	The_New_York_Times:	0.004761892000513187
+
+Top 20 files from Raw Inlink count:
+1.	International_Standard_Book_Number	700
+2.	Digital_object_identifier	679
+3.	PubMed_Identifier	407
+4.	Carbon_dioxide	367
+5.	Wayback_Machine	352
+6.	Bibcode	305
+7.	International_Standard_Serial_Number	301
+8.	PubMed_Central	256
+9.	Oxygen	196
+10.	Methane	180
+11.	Hydrogen	178
+12.	Water	137
+13.	Nitrogen	132
+14.	Carbon	130
+15.	Natural_gas	124
+16.	United_States	117
+17.	JSTOR	114
+18.	Global_warming	113
+19.	Climate_change	110
+20.	Carbon_monoxide	106
+
+when the pages are ranked based on the page rank or inlink count, it results in different ranking. The top 20 rankings in both the cases are different.
+Page ranking algorithm takes into account various factors such as whether the page is a sink node or not or whether a popular page is poining to document in question. These factors plays a significant role while calculating the pageRank of a particular page whereas these factors doesnot play any part while calculating the rank based on just the number of Inlinks associated with that page.
+
+Pros: 1. Since not many factors are taken in consideration, page ranks can be calculated easily. 
+      2. The popularity of a page is considered based on how many pages are poining to that page. 
+
+Cons: 1. Sorting via inlink may not be ideal because its not guarenteed that if many pages are pointing to the same file, it makes it relevant to the 			user. many lower quality pages can ranked above a page which is actually relevant. 
+	  2. sink nodes are not taken into comnsideration while generating ranks based on Inlink count.
+
+
+

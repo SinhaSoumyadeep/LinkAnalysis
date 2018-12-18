@@ -1,0 +1,65 @@
+
+
+**************************	L1Norm for Carbon_footprint	**************************
+
+
+
+Iteration:	0:
+
+	newPRSum:	0.999999999999998
+	L1Norm:	0.700351988678343
+
+Iteration:	1:
+
+	newPRSum:	0.9999999999999996
+	L1Norm:	0.15760002022436345
+
+Iteration:	2:
+
+	newPRSum:	1.0000000000000018
+	L1Norm:	0.06279609755868246
+
+Iteration:	3:
+
+	newPRSum:	1.0000000000000024
+	L1Norm:	0.029419079697405925
+
+Iteration:	4:
+
+	newPRSum:	0.9999999999999993
+	L1Norm:	0.014175323271898969
+
+Iteration:	5:
+
+	newPRSum:	1.0000000000000009
+	L1Norm:	0.006829670891798151
+
+Iteration:	6:
+
+	newPRSum:	1.000000000000001
+	L1Norm:	0.0032148133768353333
+
+Iteration:	7:
+
+	newPRSum:	0.9999999999999988
+	L1Norm:	0.0015507918493148642
+
+Iteration:	8:
+
+	newPRSum:	0.9999999999999989
+	L1Norm:	0.0007411552210724989
+
+Iteration:	9:
+
+	newPRSum:	1.0000000000000009
+	L1Norm:	0.0003547197647351177
+
+Iteration:	10:
+
+	newPRSum:	1.0000000000000004
+	L1Norm:	0.00016977877403166118
+
+Iteration:	11:
+
+	newPRSum:	0.9999999999999968
+	L1Norm:	8.121266942248033e-05

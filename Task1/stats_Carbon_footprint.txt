@@ -1,0 +1,4 @@
+Page with no inlinks:	0
+Page with no outlinks:	21
+max_indegree:	700
+max_outdegree:	404
